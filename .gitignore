@@ -1,0 +1,8 @@
+/build
+
+# conan files
+conan.lock
+conanbuildinfo.cmake
+graph_info.json
+conanbuildinfo.txt
+conaninfo.txt
