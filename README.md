@@ -1,6 +1,8 @@
 # DemoConan
 
 ## build
-    conan install .
-    cmake -B build
-    cmake --build build
+    mkdir -p build
+    cd build
+    conan install ..
+    cmake ..
+    cmake --build .
